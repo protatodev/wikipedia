@@ -9,4 +9,13 @@
 
 img {
   float: left;
+  background-color: #f9f9f9;
+}
+
+.sidebar_links {
+  list-style-type: none;
+  background-color: #f9f9f9;
+}
+
+.welcome_links {
 }
