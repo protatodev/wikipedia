@@ -1,3 +1,14 @@
 .view {
-  float:right;
+  float: right;
+}
+
+.welcome {
+  padding: 10px;
+  background-color: #f9f9f9;
+  float: right;
+  width: 85%;
+}
+
+img {
+  float: left;
 }
